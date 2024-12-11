@@ -17,11 +17,11 @@ export default function Home() {
       </header>
       <main>
         <div className="m-5 p-5 border border-black h-40 rounded-3xl">
-          <div>🦊お参りを登録する</div>
+          <div>🦊お参りを登録</div>
           <div className="flex justify-center"><div className="text-4xl">+</div></div>
         </div>
         <div className="m-5 p-5 border border-black h-40 rounded-3xl">
-          <div>📜おみくじを登録する</div>
+          <div>📜おみくじを登録</div>
           <div className="flex justify-center"><div className="text-4xl">+</div></div>
         </div>
       </main>
